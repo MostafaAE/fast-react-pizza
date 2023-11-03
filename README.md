@@ -1,6 +1,7 @@
 # Fast React Pizza
 
 A React Project to practice (React Router data loading, Redux, Redux Toolkit, thunks, Tailwind CSS).
+
 Fast React Pizza is a user-friendly Pizza Ordering App that allows customers to create their orders seamlessly. Users can personalize their pizza selections, adjust quantities, and remove items from their cart. The app also facilitates order placement by collecting customer information and generating a receipt.
 
 During this project, I did:
